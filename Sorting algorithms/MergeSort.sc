@@ -22,6 +22,7 @@ object PatternMatching {
  		}                                 //> merge: (xs: List[Int], ys: List[Int])List[Int]
 
 	msort(List(1, 6, 4, -2, 5, 12))           //> res0: List[Int] = List(-2, 1, 4, 5, 6, 12)
+	
 
 
 
